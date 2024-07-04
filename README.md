@@ -1,2 +1,2 @@
 # MyFirstRepo
-Mra pehla project bro.
+This is my first Repository. -Usman
